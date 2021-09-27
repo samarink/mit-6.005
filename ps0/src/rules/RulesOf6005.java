@@ -33,6 +33,7 @@ public class RulesOf6005 {
      *         assignment, according to the 6.005 collaboration policy for the
      *         current semester.
      */
+
     public static boolean mayUseCodeInAssignment(boolean writtenByYourself, boolean availableToOthers,
             boolean writtenAsCourseWork, boolean citingYourSource, boolean implementationRequired) {
 
